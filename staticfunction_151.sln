@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction_151", "stati
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "staticfunction2", "staticfunction2\staticfunction2.vcxproj", "{FD324A50-F6E5-4535-A386-C8DAE308707F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfunction", "chainfunction\chainfunction.vcxproj", "{46308812-7335-4509-9448-96884DF473EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FD324A50-F6E5-4535-A386-C8DAE308707F}.Release|x64.Build.0 = Release|x64
 		{FD324A50-F6E5-4535-A386-C8DAE308707F}.Release|x86.ActiveCfg = Release|Win32
 		{FD324A50-F6E5-4535-A386-C8DAE308707F}.Release|x86.Build.0 = Release|Win32
+		{46308812-7335-4509-9448-96884DF473EE}.Debug|x64.ActiveCfg = Debug|x64
+		{46308812-7335-4509-9448-96884DF473EE}.Debug|x64.Build.0 = Debug|x64
+		{46308812-7335-4509-9448-96884DF473EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{46308812-7335-4509-9448-96884DF473EE}.Debug|x86.Build.0 = Debug|Win32
+		{46308812-7335-4509-9448-96884DF473EE}.Release|x64.ActiveCfg = Release|x64
+		{46308812-7335-4509-9448-96884DF473EE}.Release|x64.Build.0 = Release|x64
+		{46308812-7335-4509-9448-96884DF473EE}.Release|x86.ActiveCfg = Release|Win32
+		{46308812-7335-4509-9448-96884DF473EE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
